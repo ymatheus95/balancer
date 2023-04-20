@@ -1,0 +1,3 @@
+I, [2023-04-20T00:30:19.257122 #46065]  INFO -- default-Ubuntu: -----> Creating <default-Ubuntu>...
+I, [2023-04-20T00:34:56.201497 #46065]  INFO -- default-Ubuntu: [SSH] Established
+I, [2023-04-20T00:34:56.211870 #46065]  INFO -- default-Ubuntu: Finished creating <default-Ubuntu> (4m36.94s).

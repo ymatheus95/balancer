@@ -1,0 +1,9 @@
+---
+username: kitchen
+ssh_key: "/etc/ansible/roles/balancer/.kitchen/docker_id_rsa"
+image_id: sha256:0ea70498d07f5353a16b7b5d2fd7fa9838bd90ca7707a2728a0baa1e5204ac03
+container_id: dbb0444cb20379a2baf6df6006699c7dccf82a21fb9d846eb8eb79f78dd25e49
+hostname: localhost
+port: 32768
+last_action: create
+last_error: 
